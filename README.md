@@ -8,7 +8,7 @@
 ### 🤵 About Me:
 - 🏦 Bachelor of Engineering in Vehicle Engineering with GPA 91+/100 at Tongji University, China 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 Currently I am studying Computer Science systematically.
+- 💻 I have studied Computer Science systematically for a long time.
 - 🌱 I will update my work and code on GitHub ~
 - 📝 These days I am focusing on UC Berkeley CS61B ~
 - 💬 I've scored 106 in TOEFL and 329 + 3.5 in GRE General Test, besides, I could read some German.
